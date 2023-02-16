@@ -9,6 +9,7 @@
     "class": false,
     "component": true,
     "module": false,
-    "service": false
+    "service": false,
+    "controller": false
   }
 }
